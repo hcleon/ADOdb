@@ -35,7 +35,7 @@ Older changelogs:
 - sqlite: driver did not support metaForeignKeys. #179
 - session: add 'httponly' flag to cookie. #190
 
-## 5.20.4 - 30-Mar-2016
+## 5.20.4 - 31-Mar-2016
 
 - adodb: Fix BulkBind() param count validation. #199
 - mysqli: fix PHP warning in recordset destructor. #217
